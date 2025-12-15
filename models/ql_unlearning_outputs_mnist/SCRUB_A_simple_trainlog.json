@@ -1,0 +1,23 @@
+{
+  "tag": "SCRUB_A_simple",
+  "epochs_requested": 60,
+  "epochs_ran": 9,
+  "stopped_early": true,
+  "best_epoch": 1,
+  "best_val_acc": 0.9175,
+  "patience": 8,
+  "min_delta": 0.0,
+  "elapsed_sec": 274.84633220598334,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep1.pth",
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep2.pth",
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep3.pth",
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep4.pth",
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep5.pth",
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep6.pth",
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep7.pth",
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep8.pth",
+    "ql_unlearning_outputs_mnist/SCRUB_A_simple_ep9.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_mnist/SCRUB_A_simple_best.pth"
+}

@@ -1,0 +1,21 @@
+{
+  "tag": "NegGradPlus_A",
+  "epochs_requested": 25,
+  "epochs_ran": 7,
+  "stopped_early": true,
+  "best_epoch": 1,
+  "best_val_acc": 0.875,
+  "patience": 6,
+  "min_delta": 0.0,
+  "elapsed_sec": 183.97830984700704,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_mnist/NegGradPlus_A_ep1.pth",
+    "ql_unlearning_outputs_mnist/NegGradPlus_A_ep2.pth",
+    "ql_unlearning_outputs_mnist/NegGradPlus_A_ep3.pth",
+    "ql_unlearning_outputs_mnist/NegGradPlus_A_ep4.pth",
+    "ql_unlearning_outputs_mnist/NegGradPlus_A_ep5.pth",
+    "ql_unlearning_outputs_mnist/NegGradPlus_A_ep6.pth",
+    "ql_unlearning_outputs_mnist/NegGradPlus_A_ep7.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_mnist/NegGradPlus_A_best.pth"
+}

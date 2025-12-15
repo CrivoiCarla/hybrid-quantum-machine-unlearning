@@ -1,0 +1,23 @@
+{
+  "tag": "Certified_A",
+  "epochs_requested": 12,
+  "epochs_ran": 9,
+  "stopped_early": true,
+  "best_epoch": 3,
+  "best_val_acc": 0.935,
+  "patience": 6,
+  "min_delta": 0.0,
+  "elapsed_sec": 1472.1668959480012,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_mnist/Certified_A_ep1.pth",
+    "ql_unlearning_outputs_mnist/Certified_A_ep2.pth",
+    "ql_unlearning_outputs_mnist/Certified_A_ep3.pth",
+    "ql_unlearning_outputs_mnist/Certified_A_ep4.pth",
+    "ql_unlearning_outputs_mnist/Certified_A_ep5.pth",
+    "ql_unlearning_outputs_mnist/Certified_A_ep6.pth",
+    "ql_unlearning_outputs_mnist/Certified_A_ep7.pth",
+    "ql_unlearning_outputs_mnist/Certified_A_ep8.pth",
+    "ql_unlearning_outputs_mnist/Certified_A_ep9.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_mnist/Certified_A_best.pth"
+}

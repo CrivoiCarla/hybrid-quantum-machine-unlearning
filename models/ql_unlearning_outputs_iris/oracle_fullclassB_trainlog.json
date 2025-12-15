@@ -1,0 +1,30 @@
+{
+  "tag": "oracle_fullclassB",
+  "epochs_requested": 100,
+  "epochs_ran": 16,
+  "stopped_early": true,
+  "best_epoch": 1,
+  "best_val_acc": 0.6,
+  "patience": 15,
+  "min_delta": 0.0,
+  "elapsed_sec": 179.1590352000203,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep1.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep2.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep3.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep4.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep5.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep6.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep7.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep8.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep9.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep10.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep11.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep12.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep13.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep14.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep15.pth",
+    "ql_unlearning_outputs_2\\oracle_fullclassB_ep16.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_2\\oracle_fullclassB_best.pth"
+}

@@ -1,0 +1,29 @@
+{
+  "tag": "GA_A",
+  "epochs_requested": 15,
+  "epochs_ran": 15,
+  "stopped_early": false,
+  "best_epoch": 1,
+  "best_val_acc": 0.9,
+  "patience": 15,
+  "min_delta": 0.0,
+  "elapsed_sec": 21.268919700058177,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_2\\GA_A_ep1.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep2.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep3.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep4.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep5.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep6.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep7.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep8.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep9.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep10.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep11.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep12.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep13.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep14.pth",
+    "ql_unlearning_outputs_2\\GA_A_ep15.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_2\\GA_A_best.pth"
+}

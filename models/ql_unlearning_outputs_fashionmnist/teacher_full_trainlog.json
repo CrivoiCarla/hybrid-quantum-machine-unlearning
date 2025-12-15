@@ -1,0 +1,32 @@
+{
+  "tag": "teacher_full",
+  "epochs_requested": 60,
+  "epochs_ran": 18,
+  "stopped_early": true,
+  "best_epoch": 10,
+  "best_val_acc": 0.865625,
+  "patience": 8,
+  "min_delta": 0.0,
+  "elapsed_sec": 16371.1410682461,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep1.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep2.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep3.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep4.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep5.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep6.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep7.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep8.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep9.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep10.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep11.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep12.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep13.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep14.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep15.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep16.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep17.pth",
+    "ql_unlearning_outputs_fashionmnist/teacher_full_ep18.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_fashionmnist/teacher_full_best.pth"
+}

@@ -1,0 +1,21 @@
+{
+  "tag": "GA_B",
+  "epochs_requested": 25,
+  "epochs_ran": 7,
+  "stopped_early": true,
+  "best_epoch": 1,
+  "best_val_acc": 0.34,
+  "patience": 6,
+  "min_delta": 0.0,
+  "elapsed_sec": 223.7474280660099,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_mnist/GA_B_ep1.pth",
+    "ql_unlearning_outputs_mnist/GA_B_ep2.pth",
+    "ql_unlearning_outputs_mnist/GA_B_ep3.pth",
+    "ql_unlearning_outputs_mnist/GA_B_ep4.pth",
+    "ql_unlearning_outputs_mnist/GA_B_ep5.pth",
+    "ql_unlearning_outputs_mnist/GA_B_ep6.pth",
+    "ql_unlearning_outputs_mnist/GA_B_ep7.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_mnist/GA_B_best.pth"
+}

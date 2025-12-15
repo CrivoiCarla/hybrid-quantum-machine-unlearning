@@ -1,0 +1,30 @@
+{
+  "tag": "SCRUB_B_simple",
+  "epochs_requested": 50,
+  "epochs_ran": 16,
+  "stopped_early": true,
+  "best_epoch": 1,
+  "best_val_acc": 0.8,
+  "patience": 15,
+  "min_delta": 0.0,
+  "elapsed_sec": 175.86606480006594,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep1.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep2.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep3.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep4.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep5.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep6.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep7.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep8.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep9.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep10.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep11.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep12.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep13.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep14.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep15.pth",
+    "ql_unlearning_outputs_2\\SCRUB_B_simple_ep16.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_2\\SCRUB_B_simple_best.pth"
+}

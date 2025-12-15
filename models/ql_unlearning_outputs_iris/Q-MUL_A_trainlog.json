@@ -1,0 +1,19 @@
+{
+  "tag": "Q-MUL_A",
+  "epochs_requested": 5,
+  "epochs_ran": 5,
+  "stopped_early": false,
+  "best_epoch": 1,
+  "best_val_acc": 0.9,
+  "patience": 15,
+  "min_delta": 0.0,
+  "elapsed_sec": 19.287962700007483,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_2\\Q-MUL_A_ep1.pth",
+    "ql_unlearning_outputs_2\\Q-MUL_A_ep2.pth",
+    "ql_unlearning_outputs_2\\Q-MUL_A_ep3.pth",
+    "ql_unlearning_outputs_2\\Q-MUL_A_ep4.pth",
+    "ql_unlearning_outputs_2\\Q-MUL_A_ep5.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_2\\Q-MUL_A_best.pth"
+}

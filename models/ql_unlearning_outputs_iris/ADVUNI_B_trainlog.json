@@ -1,0 +1,24 @@
+{
+  "tag": "ADVUNI_B",
+  "epochs_requested": 10,
+  "epochs_ran": 10,
+  "stopped_early": false,
+  "best_epoch": 1,
+  "best_val_acc": 0.7666666666666667,
+  "patience": 15,
+  "min_delta": 0.0,
+  "elapsed_sec": 284.2029910000274,
+  "per_epoch_checkpoints": [
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep1.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep2.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep3.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep4.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep5.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep6.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep7.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep8.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep9.pth",
+    "ql_unlearning_outputs_2\\ADVUNI_B_ep10.pth"
+  ],
+  "best_checkpoint": "ql_unlearning_outputs_2\\ADVUNI_B_best.pth"
+}
